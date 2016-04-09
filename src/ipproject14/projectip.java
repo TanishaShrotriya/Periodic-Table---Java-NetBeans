@@ -5,6 +5,7 @@
 package ipproject14;
 
 
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
@@ -2059,13 +2060,9 @@ boolean a=Clickdouble();
 
         }
 
-
-
-
-
-
     }//GEN-LAST:event_b2ActionPerformed
 
+   
     private void b4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_b4ActionPerformed
         boolean a=Clickdouble();
         

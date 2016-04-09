@@ -135,10 +135,9 @@ String port="";
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         password=new String(jPasswordField1.getPassword());
 /**
- * the getText method can also be used for a password field only that its a decrepitated method
- *hence the horizontal scratch!!
-  */
-      //  password=jPasswordField1.getText();<- method decrepitated.
+ * the getText method can also be used for a password field only that its a depricated method
+ *hence the horizontal scratch!!*/
+      //  password=jPasswordField1.getText();<- method depricated.
        username=jTextField1.getText();
        port=jTextField2.getText();
          boolean check_database=false,user_permission=false;
